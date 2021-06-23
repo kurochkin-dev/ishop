@@ -1,0 +1,30 @@
+[2021-06-23 03:30:14] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:37:16] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:37:33] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:39:41] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:39:47] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:40:08] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:45:01] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:45:30] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 03:45:59] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/public/index.php | Строка: 9
+=================
+[2021-06-23 04:51:33] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 29
+=================
+[2021-06-23 04:52:11] Текст ошибки: Страница не найдена | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 29
+=================
+[2021-06-23 05:19:37] Текст ошибки: Контроллер app\controllers\PageController не найден | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 36
+=================
+[2021-06-23 05:19:40] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 36
+=================
+[2021-06-23 05:19:57] Текст ошибки: Class "app\controllers\MainController" not found | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 33
+=================
+[2021-06-23 05:22:35] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: /var/www/my_sites/ishop/vendor/ishop/core/Router.php | Строка: 41
+=================
